@@ -9,6 +9,15 @@ public class StackAndQueue {
 		stack.insert(30);
 		stack.insert(56);
 		stack.toPrint();
+		stack.peek();
+		stack.pop();
+		stack.toPrint();
+		stack.peek();
+		stack.pop();
+		stack.toPrint();
+		stack.peek();
+		stack.pop();
+		stack.toPrint();
 
 	}
 
